@@ -1,6 +1,6 @@
 {
   "name": "@gbesse/jev-baac-scene-pattern",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Regroupe des accidents corporels en configurations descriptives sans attribuer de causalité individuelle.",
   "type": "module",
   "license": "MIT",
